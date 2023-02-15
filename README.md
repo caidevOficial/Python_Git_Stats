@@ -3,11 +3,11 @@
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
-<a href="https://github.com/MelvinAguilar/github-stats">
-<img src="https://github.com/MelvinAguilar/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/MelvinAguilar/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/MelvinAguilar/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/MelvinAguilar/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<a href="https://github.com/caidevOficial/github-stats">
+<img src="https://github.com/caidevOficial/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/caidevOficial/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/caidevOficial/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/caidevOficial/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
 Generate visualizations of GitHub user and repository statistics with GitHub
@@ -135,17 +135,6 @@ There are a few things you can do to support the project:
 These things motivate me to to keep sharing what I build, and they provide
 validation that my work is appreciated! They also help me improve the
 project. Thanks in advance!
-
-If you are insistent on spending money to show your support, I encourage you to
-instead make a generous donation to one of the following organizations. By advocating
-for Internet freedoms, organizations like these help me to feel comfortable
-releasing work publicly on the Web.
-
-- [Electronic Frontier Foundation](https://supporters.eff.org/donate/)
-- [Signal Foundation](https://signal.org/donate/)
-- [Mozilla](https://donate.mozilla.org/en-US/)
-- [The Internet Archive](https://archive.org/donate/index.php)
-
 
 # Related Projects
 
